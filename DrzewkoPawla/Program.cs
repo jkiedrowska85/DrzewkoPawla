@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 class Program
 {
-    static void Main(string[] agrges)
+    public static void Main(string[] agrges)
     {
         Console.WriteLine("Jak masz na imię?");
         string name = Console.ReadLine();
